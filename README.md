@@ -32,7 +32,8 @@ tbd
 4. Existing DeFi offerings    
 4.1 [Aave](https://aave.com)   
 4.2 [Augur](https://www.augur.net/)  
-4.3 ...
+4.3 [BlockFi](https://blockfi.com/) / [Crypto Loans](https://blockfi.com/crypto-loans/)  
+4.4 ...
 
 
 
