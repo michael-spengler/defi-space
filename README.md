@@ -5,7 +5,7 @@ This repo is dedicated to the [DeFi Space Podcast](https://en.wikipedia.org/wiki
 1. Getting started with crypto currencies  
 2. Ethereum & Ether  
 3. Existing DeFi offerings  
-4. The value of banks in a DeFi world  
+4. Banks & DeFi  
 
 
 ## Previous Sessions
@@ -24,10 +24,11 @@ tbd
 2. Banks & DeFi  
 2.1 The value of banks in a DeFi world  
 2.2 DeFi **vs.** banks  
-2.3 Combining classical banking services & DeFi services  
+2.3 DeFi **AND** banks    
 2.3.1 Investment Services  
 2.3.2 Loans Services  
 2.3.3 Risk Mitigation Services (e.g. via Derivate Offerings)
+2.3.4 Payment Services
 
 3. Ethereum
 3.1 Introduction to the Ethereum Blockchain   
