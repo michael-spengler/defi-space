@@ -13,9 +13,9 @@ tbd
 
 ## Topic Collection
 1. Getting started with crypto currencies  
-1.1 History
-1.2 Overview crypto currencies
-1.3 Crypto wallets  
+1.1 History  
+1.2 Overview crypto currencies  
+1.3 Crypto wallets   
 1.4 Investing in crypto currencies  
 1.5 Exchanges (e.g. coinbase.com & pro.coinbase.com, uphold.com, bilaxy.com, bittrex)  
 1.6 Transactions  
@@ -50,5 +50,5 @@ Mia: Banking Student at [DHBW Mannheim](https://www.mannheim.dhbw.de/)
 Michael: Software Developer and DeFi Fan
 
 ## Feedback
-Feel free to give us Feedback 
+Feel free to give us feedback by creating an [issue](https://github.com/michael-spengler/defi-space/issues/new) or by raising a pull request. 
 
