@@ -23,8 +23,11 @@ tbd
 
 2. Banks & DeFi  
 2.1 The value of banks in a DeFi world  
-2.2 Advantages of using DeFi without banks  
-2.3 Combining classical bank & DeFi offerings
+2.2 DeFi **vs.** banks  
+2.3 Combining classical banking services & DeFi services  
+2.3.1 Investment Services  
+2.3.2 Loans Services  
+2.3.3 Risk Mitigation Services (e.g. via Derivate Offerings)
 
 3. Ethereum
 3.1 Introduction to the Ethereum Blockchain   
