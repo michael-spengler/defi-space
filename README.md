@@ -30,7 +30,7 @@ tbd
 2.3.3 Risk Mitigation Services (e.g. via Derivate Offerings)
 2.3.4 Payment Services
 
-3. Ethereum
+3. Ethereum  
 3.1 Introduction to the Ethereum Blockchain   
 3.2 Introduction to Ether - the main currency in the Ethereum Blockchain   
 3.3 Smart Contracts  
