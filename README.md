@@ -27,7 +27,7 @@ tbd
 2.3 DeFi **AND** banks    
 2.3.1 Investment Services  
 2.3.2 Loans Services  
-2.3.3 Risk Mitigation Services (e.g. via Derivate Offerings)
+2.3.3 Risk Mitigation Services (e.g. via Derivate Offerings)  
 2.3.4 Payment Services
 
 3. Ethereum  
