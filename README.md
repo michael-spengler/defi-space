@@ -45,6 +45,9 @@ tbd
 4.3 [BlockFi](https://blockfi.com/) / [Crypto Loans](https://blockfi.com/crypto-loans/)  
 4.4 ...
 
+5. Evaluation Methods  
+5.1 Interviews  
+5.2 Nutzwertanalyse  
 
 
 
