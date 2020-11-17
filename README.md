@@ -18,7 +18,7 @@ tbd
 1.3 Crypto wallets   
 1.4 Investing in crypto currencies  
 1.5 Exchanges (e.g. coinbase.com & pro.coinbase.com, uphold.com, bilaxy.com, bittrex)  
-1.6 Transactions
+1.6 Transactions  
 1.7 Distributed Ledger / Blockchain Technology  
 1.8 Data security & data privacy  
 
