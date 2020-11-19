@@ -23,7 +23,7 @@ Prepare the usage of [MetaMask](https://metamask.io/) by creating a new wallet. 
 Create an account on [Coinbase](https://www.coinbase.com/).  
 
 **Task 4**  
-Transfer some Ether - which is the main currency in the [Ethereum Network](https://ethereum.org/en/) from an exchange (e.g. from coinbase.com) to your MetaMask wallet.  
+Transfer some Ether - which is the main currency in the [Ethereum Network](https://ethereum.org/en/) - from an exchange (e.g. from coinbase.com) to your MetaMask wallet.  
 
 **Task 5**  
 Download the [Brave Browser](https://brave.com/fan464).  
