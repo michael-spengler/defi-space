@@ -72,18 +72,22 @@ Prepare the usage of the [Arweave Browserextension](https://chrome.google.com/we
 3.3 Smart Contracts  
 3.4 Creating an own currency using ERC20 Tokens  
 
-
 4. Existing DeFi offerings    
 4.1 [Aave](https://aave.com)   
 4.2 [Augur](https://www.augur.net/)  
 4.3 [BlockFi](https://blockfi.com/) / [Crypto Loans](https://blockfi.com/crypto-loans/)  
-4.4 ...
+4.4 [GitCoin Grants](https://gitcoin.co/grants/) and [Quadratic Funding](https://wtfisqf.com)  
+4.5 ...  
+
 
 5. Evaluation Methods  
 5.1 Interviews  
 5.2 Nutzwertanalyse  
 
 
+6. Privacy Coins  
+6.1 [ZCash - ZEC](https://www.youtube.com/watch?v=TN2jOwtn2LA)  
+6.2 [Monero](https://www.youtube.com/watch?v=qrUq0v5VgdU)  
 
 ## About Us
 Mia: Banking Student at [DHBW Mannheim](https://www.mannheim.dhbw.de/)  
