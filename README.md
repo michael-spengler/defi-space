@@ -11,6 +11,40 @@ This repo is dedicated to the [DeFi Space Podcast](https://en.wikipedia.org/wiki
 ## Previous Sessions
 tbd
 
+## Workbook
+### Lesson 1
+**Task 1**  
+Add the [MetaMask](https://metamask.io/) Browserextension to your Google Chrome Browser.  
+
+**Task 2**   
+Prepare the usage of [MetaMask](https://metamask.io/) by creating a new wallet. Make sure you keep the passphrase.  
+
+**Task 3**  
+Create an account on [Coinbase](https://www.coinbase.com/).  
+
+**Task 4**  
+Transfer some Ether - which is the main currency in the [Ethereum Network](https://ethereum.org/en/) from an exchange (e.g. from coinbase.com) to your MetaMask wallet.  
+
+**Task 5**  
+Download the [Brave Browser](https://brave.com/fan464).  
+
+
+### Lesson 2
+**Task 1**  
+Create an account on [GitHub](https://github.com/) and give a star to [our repo](https://github.com/michael-spengler/defi-space/) :)  
+
+**Task 2**  
+Add the [Arweave Browserextension](https://chrome.google.com/webstore/detail/arweave/iplppiggblloelhoglpmkmbinggcaaoc?hl=en-GB) to your Google Chrome Browser.  
+
+**Task 3**   
+Prepare the usage of the [Arweave Browserextension](https://chrome.google.com/webstore/detail/arweave/iplppiggblloelhoglpmkmbinggcaaoc?hl=en-GB) by creating a new wallet. Make sure you keep the keyfile.  
+
+
+
+
+
+
+
 ## Topic Collection
 1. Getting started with crypto currencies  
 1.1 History  
